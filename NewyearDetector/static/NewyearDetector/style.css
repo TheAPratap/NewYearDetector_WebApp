@@ -1,0 +1,16 @@
+h1,h2{
+    color: white;
+    font-size:100px;
+}
+*{
+    background-color: black;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
